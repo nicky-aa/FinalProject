@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+         android:id="@+id/ic_learning"
+         android:icon="@drawable/ic_learning"
+         android:title="Learning"/>
+    <item
+        android:id="@+id/ic_top10"
+        android:icon="@drawable/ic_top10"
+        android:title="Top10"/>
+    <item
+        android:id="@+id/ic_videogame"
+        android:icon="@drawable/ic_videogame"
+        android:title="Game"/>
+
+</menu>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.finalproject">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FinalProject">
+        <activity android:name=".GameActivity"></activity>
+        <activity android:name=".TopfrActivity10" />
+        <activity android:name=".TopfrActivity9" />
+        <activity android:name=".TopfrActivity8" />
+        <activity android:name=".TopfrActivity7" />
+        <activity android:name=".TopfrActivity6" />
+        <activity android:name=".TopfrActivity5" />
+        <activity android:name=".TopfrActivity4" />
+        <activity android:name=".TopfrActivity3" />
+        <activity android:name=".TopfrActivity2" />
+        <activity android:name=".TopfrActivity1" />
+        <activity android:name=".ToptwActivity10" />
+        <activity android:name=".ToptwActivity9" />
+        <activity android:name=".ToptwActivity8" />
+        <activity android:name=".ToptwActivity7" />
+        <activity android:name=".ToptwActivity6" />
+        <activity android:name=".ToptwActivity5" />
+        <activity android:name=".ToptwActivity4" />
+        <activity android:name=".ToptwActivity3" />
+        <activity android:name=".ToptwActivity2" />
+        <activity android:name=".ToptwActivity1" />
+        <activity android:name=".ToptenActivity2" />
+        <activity android:name=".ToptenActivity1" />
+        <activity android:name=".ItemActivity15" />
+        <activity android:name=".ItemActivity13" />
+        <activity android:name=".ItemActivity12" />
+        <activity android:name=".ItemActivity11" />
+        <activity android:name=".ItemActivity10" />
+        <activity android:name=".ItemActivity9" />
+        <activity android:name=".ItemActivity8" />
+        <activity android:name=".ItemActivity7" />
+        <activity android:name=".ItemActivity6" />
+        <activity android:name=".ItemActivity5" />
+        <activity android:name=".ItemActivity4" />
+        <activity android:name=".ItemActivity3" />
+        <activity android:name=".ItemActivity2" />
+        <activity android:name=".ItemActivity1" />
+        <activity android:name=".ItemActivity0" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
